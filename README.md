@@ -1,1 +1,1 @@
-https://eleex.github.io/react-redux-store
+https://eleex.github.io/react-redux-store/
